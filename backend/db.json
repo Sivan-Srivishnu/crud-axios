@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "python",
+      "details": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems."
+    },
+    {
+      "title": "html",
+      "details": "hypertext markup language",
+      "id": 3
+    },
+    {
+      "title": "java",
+      "details": "it is a programming language and it is oops based",
+      "id": 6
+    }
+  ]
+}
